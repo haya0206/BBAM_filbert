@@ -1,4 +1,10 @@
-﻿# Filbert
+﻿# 개요
+
+BBAM에 들어갈 파이썬을 자바스크립트로 변환하여 실행하는 모듈입니다.
+테스트할때는 test/interactive.html을 열어서 테스트해주세요.
+모듈을 수정할때는 filbert.js를 여시면 됩니다.(한파일만 있어요)
+
+# Filbert
 
 JavaScript-based Python parser.  Outputs an abstract syntax tree as specified by the
 [Mozilla Parser API][mozapi].
